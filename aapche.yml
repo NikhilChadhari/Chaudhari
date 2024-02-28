@@ -1,0 +1,4 @@
+name : Deploy static website 
+copy :
+   src : idnex.html
+   dest : /var/www/html
